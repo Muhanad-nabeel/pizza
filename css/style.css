@@ -1,0 +1,105 @@
+*{
+  box-sizing: border-box;
+  
+}
+header{
+height: 100px;
+}
+header nav{
+  display: inline;
+}
+header nav .logo{
+float: left;
+
+}
+header nav .text{
+  padding: 0 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+header nav .text h4{
+  font-family: 'Ballet', cursive;
+font-size: 25px
+}
+header nav .text  p{
+margin-top: -40px;}
+header nav ul{
+justify-content: space-between;
+float: right;
+list-style: none;
+margin-top: -50px;
+
+}
+header nav ul li {
+  display: inline;
+
+}
+
+main .print{
+  float: right;
+}
+main .meddle{
+text-align: center;
+margin: 60px 120px;
+}
+main .last {
+ height: 500px;
+  margin:30px  50px;
+}
+main .last img{
+padding:0 300px;
+}
+main .last ul{
+  justify-content: space-between;
+}
+main .last .ul1{
+padding: 0px 375px;
+margin: -261px -17px;
+}
+.last .ul1 li{
+  padding: 10px;
+}
+main .last .ul2{
+  position: absolute;
+  padding: 0 0px;
+  margin: 0px 0p;
+  display: inline;
+  width: 245px;
+  margin-left: 670px;
+  }
+  .last .ul2 li{
+    padding: 10px;
+  }
+  footer{
+   padding: 26px 25px;
+
+  }
+  footer img{
+    padding-left:5px 0px;
+    float: left;
+  }
+  footer p{
+    padding: 10px 70px;
+    margin-top: 0px;
+    float: left;
+  }
+  footer input[type="submit"]{
+    background-color: brown;
+font-size: 30px;
+color: white;
+align-items: center;  
+}
+footer .small{
+  text-align: center;
+}
+footer .end {
+margin: 100px;
+
+}
+footer .small {
+  padding: 0px 600px;
+    margin-top: -25px;
+text-align: center;
+}
+footer .end p{
+  padding: 0 600px;}
